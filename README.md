@@ -1,10 +1,11 @@
 # CS50_PrivateDentalWebApp
-this was my final project for CS50 course
 
+youtube video here : https://www.youtube.com/watch?v=ids-ektVlAw&t=60s 
 
 Hello World,
 
 here is quick explanation of my final project called dental web app.
+
 
 First of all it is business web page as any other with goal of providing basic informations about private dental clinic.
 Second, I have implemented informational system that stores informations about registered users.(PYTHON,FLASK,SQL lite).
