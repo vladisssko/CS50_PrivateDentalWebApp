@@ -7,15 +7,15 @@ Hello World,
 here is quick explanation of my final project called dental web app.
 
 
-First of all it is business web page as any other with goal of providing basic informations about private dental clinic.
-Second, I have implemented informational system that stores informations about registered users.(PYTHON,FLASK,SQL lite).
-Third, I have implemented feature for patients and doctors/nurses that helps them with scheduling appointment described below.(PYTHON,FLASK,SQL,JAVASCRIPT,)
+First of all it is business web page providing basic information about private dental clinic.
+Second, I have implemented informational system that stores information about registered users.(PYTHON,FLASK,SQL lite).
+Third, I have implemented feature for patients and doctors/nurses that helps with scheduling appointments described below.(PYTHON,FLASK,SQL,JAVASCRIPT,)
 
 Request appointment feature.
 
 Whenever patients are registered they are able to request appointment by clicking on "request appointment" in navbar, where they provide
-informations as : message, preferred contact method, proffered day of app. and  preferred time of app.
-Once they submit form, all info are stored and if patient wants to see his requests history he/she can do it by clicking on "My requests" in navbar.
+informations as : message, preferred contact method, preffered day of app. and  preferred time of app.
+Once they submit form, all info is stored and if patient wants to see his requests history he/she can do it by clicking on "My requests" in navbar.
 
 Doctor/nurse side:
 So the patient has requested his appointment and is waiting to be contacted.
